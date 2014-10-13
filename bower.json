@@ -1,0 +1,25 @@
+{
+  "name": "ckeditor-textselection",
+  "version": "0.0.1",
+  "homepage": "https://github.com/friedolinfoerder/ckeditor-textselection",
+  "authors": [
+    "Friedolin Förder <friedolinfoerder@gmx.de>"
+  ],
+  "description": "The textselection plugin for the ckeditor (bower wrapper)",
+  "main": "textselection/plugin.js",
+  "keywords": [
+    "ckeditor",
+    "plugin",
+    "text",
+    "selection",
+    "wysiwyg"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
